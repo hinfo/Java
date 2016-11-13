@@ -4,6 +4,10 @@
 import os
 from version_java import *
 
+"""
+Funções para auxiliar na instalação do java
+"""
+
 def install_debian():
 		'''
 		Instala java em deriados do Debian
