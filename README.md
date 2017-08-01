@@ -1,3 +1,3 @@
-# Java
-Aplicações Java
-Repositório para distribuição de alguns projetos em Java.
+# Python e Java
+Aplicações Python e Java
+Repositório para distribuição de alguns projetos.
